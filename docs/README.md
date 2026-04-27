@@ -16,7 +16,10 @@ Projects begin with a lightweight initiation step to confirm the business need, 
 - **Project Manager** – Coordinates schedules, risks, communications, and documentation.
 - **Product Manager** – Owns outcomes, prioritization, and success measurement.
 - **Developers** – Build, test, and document the solution.
-- **QA/Testing** – Validates quality and acceptance criteria.
+- **QA Lead** – Defines test strategy, validates quality and acceptance criteria, and owns Go/No-go sign-off.
+- **UX/UI Designer** – Owns user experience and interface design; delivers specs to development.
+- **DevOps Engineer** – Maintains CI/CD pipelines, infrastructure, and deployment automation.
+- **Release Manager** – Orchestrates releases, facilitates Go/No-go decisions, and owns release communications.
 - **Stakeholders** – Provide input and approvals at key decision points.
 
 **Communication strategies** include daily standups to surface progress and blockers, weekly delivery syncs for status updates and risk review, demos at sprint or milestone boundaries, escalation paths for issues that exceed team authority, and stakeholder announcements at release time.
@@ -33,6 +36,7 @@ Projects begin with a lightweight initiation step to confirm the business need, 
 - [Release & Deployment Guide](octoacme-release-and-deployment.md)
 - [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
 - [Roles and Personas](octoacme-roles-and-personas.md)
+- [Role Handoff Checklist](octoacme-role-handoff-checklist.md)
 
 ---
 
